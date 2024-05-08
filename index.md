@@ -12,7 +12,6 @@ xxxxxxxxxx
 xxxxxxxxxxxxx
 
 ## Team
-Team members:
 |                                                                                                                     | Name            | Contact          |  GitHub         |
 |---------------------------------------------------------------------------------------------------------------------|-----------------|----------------- |-----------------|
 | <img src="https://github.com/hokwaichan.png" alt="Hokwai" width="100" height="100" style="border-radius: 50%;">     | Hok Wai Chan    |[hokwai@hawaii.edu](hokwai@hawaii.edu)       | @hokwaichan    |
