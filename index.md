@@ -14,7 +14,7 @@ xxxxxxxxxxxxx
 
 ## Team
 Team members:
-|                                                                                                                     | Name            | GitHub Handle   |
+|                                                                                                                     | Name            | GitHub          |
 |---------------------------------------------------------------------------------------------------------------------|-----------------|-----------------|
 | <img src="https://github.com/hokwaichan.png" alt="Hokwai" width="100" height="100" style="border-radius: 50%;">     | Hok Wai Chan    | @hokwaichan     |
 | <img src="https://github.com/adrianwtam.png" alt="Adrian" width="100" height="100" style="border-radius: 50%;">     | Adrian Tam      | @adrianwtam     |
