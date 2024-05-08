@@ -7,10 +7,10 @@
 * [Contact](#contact)
 
 ## Overview
-
+xxxxxxxxxx
 
 ## Development History
-
+xxxxxxxxxxxxx
 
 ## Team
 Team members:
@@ -22,8 +22,8 @@ Team members:
 
 
 ## Contact
-[hokwai@hawaii.edu](hokwai@hawaii.edu)
-[azianblank2@gmail.com](azianblank2@gmail.com)
-[jhe3@hawaii.edu](jhe3@hawaii.edu)
+- [hokwai@hawaii.edu](hokwai@hawaii.edu)
+- [azianblank2@gmail.com](azianblank2@gmail.com)
+- [jhe3@hawaii.edu](jhe3@hawaii.edu)
 ---
 <!---------------------------------------------------------------------------->
