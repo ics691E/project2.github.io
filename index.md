@@ -8,7 +8,7 @@ A fun and engaging game concept that challenges different player skills, making 
 
 - [Game Overview](#overview)
 - [Team](#team)
-- [Github Repository](#github-repository)
+- [GitHub Repository](#github-repository)
 
 ## Overview
 
@@ -49,11 +49,11 @@ Player Death:
 
 ## Feedback
 
-- Implementing six fields and a final boss field is too time consuming as each field is like a new game.
+- Implementing six fields and a final boss field is too time-consuming as each field is like a new game.
 
-- Aiming and shooting without crosshair is very challenging and need a mouse.
+- Aiming and shooting without crosshair is very challenging and needs a mouse.
 
-- Need improvements on teleports. Too many accidents on teleporting between fields.
+- Need improvements on teleports. Too many accidents in teleporting between fields.
 
 ## Team
 
@@ -71,5 +71,5 @@ Archer's Quest is designed, implemented, and maintained by a team consisting of 
 >
 > <a href="https://github.com/adrianwtam"><img src="https://github.com/adrianwtam.png" alt="Adrian" width="32" height="32"></a>
 
-## Github Repository
-<a href="https://github.com/ics691E">Link to GitHub repository</a>
+## GitHub Repository
+<a href="https://github.com/ics691E">Link to GitHub Repository</a>
