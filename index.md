@@ -43,6 +43,9 @@ Catch the Capsule:
 Final Boss:
 <video width="1000" height="700" controls><source src="images/image5.mp4" type="video/mp4"></video>
 
+Player Death:
+<video width="1000" height="700" controls><source src="images/image7.mp4" type="video/mp4"></video>
+
 ## Feedback
 
 - Implementing six fields and a final boss field is too time consuming as each field is like a new game.
