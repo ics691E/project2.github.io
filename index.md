@@ -29,19 +29,19 @@ Final Boss: After acquiring skills, players face a challenging boss that require
 ## Game 
 
 Teleport:
-<img src="image1" alt="image1">
+<img src="images/image1" alt="image1">
 
 Shooting Arena:
-<img src="image2" alt="image2">
+<img src="images/image2" alt="image2">
 
 Maze Runner:
-<img src="image3" alt="image3">
+<img src="images/image3" alt="image3">
 
 Catch the Capsule:
-<img src="image4" alt="image4">
+<img src="images/image4" alt="image4">
 
 Final Boss:
-<img src="image5" alt="image5">
+<img src="images/image5" alt="image5">
 
 
 ## Team
