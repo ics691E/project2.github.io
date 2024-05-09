@@ -7,7 +7,7 @@ A fun and engaging game concept that challenges different player skills, making 
 ## Table of Contents
 
 - [Game Overview](#overview)
-- [Development History](#development-history)
+- [Game](#game)
 - [Team](#team)
 
 ## Overview
@@ -26,9 +26,23 @@ Skill Acquisition: Players choose only two fields to enter and gain skills or it
 
 Final Boss: After acquiring skills, players face a challenging boss that requires a combination of the skills learned.
 
-## Development History
+## Game 
 
-xxxxxxxxxxxxx
+Teleport:
+<img src="image1" alt="image1">
+
+Shooting Arena:
+<img src="image2" alt="image2">
+
+Maze Runner:
+<img src="image3" alt="image3">
+
+Catch the Capsule:
+<img src="image4" alt="image4">
+
+Final Boss:
+<img src="image5" alt="image5">
+
 
 ## Team
 
