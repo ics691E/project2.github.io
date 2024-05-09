@@ -43,10 +43,9 @@ Catch the Capsule:
 Final Boss:
 <video width="1000" height="700" controls><source src="images/image5.mp4" type="video/mp4"></video>
 
-
 ## Team
 
-ICS691E Project 2 is designed, implemented, and maintained by a team consisting of three members:
+Archer's Quest is designed, implemented, and maintained by a team consisting of three members:
 
 > Hok Wai Chan, a computer science student at the University of Hawaii at Manoa.
 >
