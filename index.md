@@ -8,6 +8,7 @@ A fun and engaging game concept that challenges different player skills, making 
 
 - [Game Overview](#overview)
 - [Team](#team)
+- [Github Repository](#github-repository)
 
 ## Overview
 
@@ -69,3 +70,6 @@ Archer's Quest is designed, implemented, and maintained by a team consisting of 
 > Adrian Tam, a computer science student at the University of Hawaii at Manoa.
 >
 > <a href="https://github.com/adrianwtam"><img src="https://github.com/adrianwtam.png" alt="Adrian" width="32" height="32"></a>
+
+## Github Repository
+<a href="https://github.com/ics691E">Link to GitHub repository</a>
