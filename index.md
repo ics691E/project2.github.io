@@ -2,7 +2,7 @@
 
 Genre: Adventure/Strategy
 
-A fun and engaging game concept that challenges different player skills, making the choices strategic based on the skills they want to develop.
+A fun and engaging game concept that challenges different player skills, making the choices strategically based on the skills they want to develop.
 
 ## Table of Contents
 
@@ -38,10 +38,10 @@ Maze Runner:
 <video autoplay><source src="images/image3.mp4" type="video/mp4"></video>
 
 Catch the Capsule:
-<img src="images/image4.png" alt="image4">
+<video autoplay><source src="images/image4.mp4" type="video/mp4"></video>
 
 Final Boss:
-<img src="images/image5.png" alt="image5">
+<video autoplay><source src="images/image5.mp4" type="video/mp4"></video>
 
 
 ## Team
