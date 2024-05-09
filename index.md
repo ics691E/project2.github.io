@@ -35,7 +35,9 @@ Shooting Arena:
 <img src="images/image2.png" alt="image2">
 
 Maze Runner:
-<img src="images/image3.png" alt="image3">
+<video width="320" height="240" controls>
+  <source src="images/image3.mp4" type="video/mp4">
+</video>
 
 Catch the Capsule:
 <img src="images/image4.png" alt="image4">
