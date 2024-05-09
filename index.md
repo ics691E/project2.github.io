@@ -1,4 +1,6 @@
-# ICS691E Project 2
+# Archer's Quest
+
+Genre: Adventure/Strategy
 
 A fun and engaging game concept that challenges different player skills, making the choices strategic based on the skills they want to develop.
 
@@ -18,6 +20,7 @@ Fields: Each of the six fields tests different skills:
 
 - Catch the Capsule: Requires precision and timing to catch moving targets.
 - Maze Runner: Focuses on navigation and quick decision-making.
+- Shooting Arena: Focuses on refining the player's aiming and shooting skills.
 
 Skill Acquisition: Players choose only two fields to enter and gain skills or items that will significantly influence their abilities in the final battle.
 
