@@ -7,7 +7,6 @@ A fun and engaging game concept that challenges different player skills, making 
 ## Table of Contents
 
 - [Game Overview](#overview)
-- [Game](#game)
 - [Team](#team)
 
 ## Overview
@@ -26,7 +25,8 @@ Skill Acquisition: Players choose only two fields to enter and gain skills or it
 
 Final Boss: After acquiring skills, players face a challenging boss that requires a combination of the skills learned.
 
-## Game 
+Player:
+<img width="1200" height="600" src="images/image6.png" alt="image6">
 
 Teleport:
 <img width="1200" height="600" src="images/image1.png" alt="image1">
